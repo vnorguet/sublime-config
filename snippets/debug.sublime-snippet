@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+puts "DEBUG STARTS HERE"
+puts $1
+puts "DEBUG ENDS HERE"
+]]></content>
+	<tabTrigger>debug</tabTrigger>
+</snippet>
+

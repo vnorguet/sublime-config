@@ -1,0 +1,45 @@
+{
+	"ignored_packages":
+	[
+  "Vintage",
+  "RSpec (snippets and syntax)"
+  ],
+
+  // Hides the fold buttons unless the mouse is over the gutter
+  "fade_fold_buttons": false,
+
+  // The number of spaces a tab is considered equal to
+  "tab_size": 2,
+
+  // Set to true to insert spaces when tab is pressed
+  "translate_tabs_to_spaces": true,
+
+  // Set to false to disable detection of tabs vs. spaces on load
+  "detect_indentation": false,
+
+  // If enabled, will highlight any line with a caret
+  "highlight_line": true,
+
+  // Additional spacing at the top of each line, in pixels
+  "line_padding_top": 1,
+
+  // Additional spacing at the bottom of each line, in pixels
+  "line_padding_bottom": 1,
+
+  // Set to true to ensure the last line of the file ends in a newline
+  // character when saving
+  "ensure_newline_at_eof_on_save": true,
+
+  // tab character - this allows tabs to be inserted when tab_completion is
+  // enabled. Set this to true to make shift+tab always unindent, instead of
+  // inserting tabs.
+  "shift_tab_unindent": true,
+
+
+  // Makes tabs with modified files more visible
+  "highlight_modified_tabs": true,
+
+  // Show folders in the side bar in bold
+  "bold_folder_labels": true
+
+}

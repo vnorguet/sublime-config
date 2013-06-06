@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Default File Type",
+		"ERB Insert and Toggle Commands",
+		"Gist",
+		"Git Status Files",
+		"Package Control",
+		"RSpec (snippets and syntax)",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"sublime-github",
+		"SublimeLinter",
+		"yardoc"
+	]
+}
