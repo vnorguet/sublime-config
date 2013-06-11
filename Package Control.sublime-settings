@@ -9,6 +9,7 @@
 		"Gist",
 		"Git Status Files",
 		"Package Control",
+		"RSpec",
 		"RSpec (snippets and syntax)",
 		"RubyTest",
 		"SideBarEnhancements",
@@ -17,5 +18,9 @@
 		"SublimeLinter",
 		"Theme - Soda",
 		"yardoc"
+	],
+	"repositories":
+	[
+		"https://github.com/facelessuser/BracketHighlighter/tree/BH2"
 	]
 }
