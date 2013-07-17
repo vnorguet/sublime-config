@@ -1,15 +1,17 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"RSpec (snippets and syntax)"
+		"RSpec (snippets and syntax)",
+		"Ruby Coverage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
