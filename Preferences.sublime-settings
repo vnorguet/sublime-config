@@ -1,23 +1,30 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+                "Ruby on Rails snippets",
+                "yardoc",
 		"Vintage",
-		"RSpec (snippets and syntax)",
-		"Ruby Coverage"
+                "RSpec (snippets and syntax)",
+                "Theme - Soda",
+                "SideBarGit",
+                "sublime-github",
+                "RSpec",
+                "SideBarEnhancements",
+                "SassBeautify",
+                "RubyTest",
+                "SublimeLinter"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"shift_tab_unindent": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

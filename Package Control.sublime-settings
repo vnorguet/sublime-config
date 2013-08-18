@@ -1,7 +1,9 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"BeautifyRuby",
+		"Bracketeer",
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Default File Type",
@@ -9,6 +11,7 @@
 		"Gist",
 		"Git",
 		"Git Status Files",
+		"HTMLBeautify",
 		"nginx",
 		"Package Control",
 		"RSpec",
@@ -16,6 +19,7 @@
 		"Ruby Coverage",
 		"Ruby on Rails snippets",
 		"RubyTest",
+		"SassBeautify",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"sublime-github",
