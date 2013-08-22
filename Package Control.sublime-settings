@@ -7,9 +7,6 @@
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Default File Type",
-		"ERB Insert and Toggle Commands",
-		"ERB Snippets",
-		"Gist",
 		"Git",
 		"Git Status Files",
 		"HTMLBeautify",
@@ -18,21 +15,16 @@
 		"Pretty JSON",
 		"RSpec",
 		"RSpec (snippets and syntax)",
-		"Ruby Coverage",
 		"Ruby on Rails snippets",
 		"RubyTest",
 		"Sass",
 		"SassBeautify",
 		"SideBarEnhancements",
 		"SideBarGit",
-		"sublime-github",
-		"SublimeLinter",
-		"Sublimerge",
 		"SyncedSideBar",
 		"Terminal",
 		"Theme - Soda",
-		"View In Browser",
-		"yardoc"
+		"View In Browser"
 	],
 	"repositories":
 	[
