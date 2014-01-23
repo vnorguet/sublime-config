@@ -1,7 +1,7 @@
 <snippet>
         <content><![CDATA[
 it '$1' do
-        $2
+  ${2:#code}
 end
 ]]></content>
         <tabTrigger>it</tabTrigger>

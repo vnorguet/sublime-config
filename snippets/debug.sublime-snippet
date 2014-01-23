@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-puts "DEBUG STARTS HERE"
+puts "\033[7;31;40mDEBUG STARTS HERE\033[0m"
 puts $1
-puts "DEBUG ENDS HERE"
+puts "\033[7;31;40mDEBUG ENDS HERE\033[0m"
 ]]></content>
 	<tabTrigger>debug</tabTrigger>
 </snippet>
